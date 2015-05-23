@@ -1,1 +1,1 @@
-//= require mui_app_rails/mui
+//= require mui_app_rails/mui.min
