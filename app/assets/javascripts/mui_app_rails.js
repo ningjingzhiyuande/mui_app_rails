@@ -1,0 +1,1 @@
+//= require mui_app_rails/mui
