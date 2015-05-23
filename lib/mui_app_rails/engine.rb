@@ -10,7 +10,7 @@ module MuiAppRails
          app.config.assets.precompile << %r(fonts/\.(?:eot|svg|ttf|woff2?)$)
         
 
-        app.config.assets.precompile << /\.(?:svg|eot|woff|woff2|ttf)\z/
+       # app.config.assets.precompile << /\.(?:svg|eot|woff|woff2|ttf)\z/
     end
 
   end
