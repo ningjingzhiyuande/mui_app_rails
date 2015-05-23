@@ -1,4 +1,4 @@
-require "mui_app_rails/version"
+require "mui_app_rails/engine"
 
 module MuiAppRails
 	
