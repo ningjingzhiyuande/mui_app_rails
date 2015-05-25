@@ -3323,7 +3323,7 @@ select:focus {
   font-style: normal;
   font-weight: normal;
 
-  src: url("../fonts/mui.ttf") format("truetype");
+  src: url("/assets/mui.ttf") format("truetype");
 }
 .mui-icon {
   display: inline-block;
